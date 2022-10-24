@@ -162,7 +162,7 @@ const styles = StyleSheet.create({
  white:{
   color:'white',
  },
-
+ 
  btntext:{
   fontSize: 30,
   color:'#D7B3FF',
